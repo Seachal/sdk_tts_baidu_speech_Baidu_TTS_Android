@@ -1,0 +1,8 @@
+尊敬的开发者，您好：
+	我们了解到Google Play对应用发布的审核策略进行了升级，我们十分重视用户的数据安全和隐私保护，为进一步提升用户个人信息的安全性，适配Google Play新的审核策略，百度AI开放平台对语音识别&语音合成SDK进行了升级。如您有海外发版需求，我们建议您使用Google版SDK。
+	请将如下信息发送到speech-service@baidu.com邮箱，提供您在Google Play发布的APP的应用包名、联系人、联系电话、企业名称，我们将提供Google版SDK的下载地址和升级方法。您在升级过程中，若有任何问题也可通过【工单系统链接】第一时间联系我们。
+
+感谢您对百度AI开放平台的支持！
+
+
+当前版本SDK适用于国内应用市场，需要向speech-service@baidu.com申请Google Play专用版SDK。注意GOOGLE PLAY专用版SDK不能发布到国内市场。

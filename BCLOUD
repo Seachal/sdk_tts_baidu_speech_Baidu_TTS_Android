@@ -1,0 +1,1 @@
+'BUILD_SUBMITTER -x -m baidu/aip/speech-tts-android-demo -c "cd baidu/aip/speech-tts-android-demo && mkdir output &&cp BCLOUD ./output/" -u ./' 

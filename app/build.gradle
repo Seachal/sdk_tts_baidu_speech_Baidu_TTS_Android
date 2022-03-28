@@ -1,0 +1,23 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+
+    defaultConfig {
+        applicationId "com.baidu.tts.sample"
+        minSdkVersion 14
+        targetSdkVersion 28
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    api fileTree(exclude: '*.bak', dir: 'libs')
+    implementation 'androidx.appcompat:appcompat:1.0.2'
+}

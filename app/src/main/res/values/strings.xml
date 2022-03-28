@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">百度语音 在线合成Demo</string>
+    <string name="sync_button">纯在线语音合成</string>
+</resources>
