@@ -1,4 +1,4 @@
-#SDK
+# SDK
 sca: 这个是语音播报功能，例如把收到的文字播报出来。语音播报。
 
 语音这获取的sdk放入build_shell 目录中
@@ -16,3 +16,6 @@ bash build_shell/switch.sh online normal
 
 bash pack.sh 
 打包4个线上版本
+
+
+# 百度离线语音播报，可以实现类似,文字转语音， 可以配合 push, 播报推送内容。文档地址：https://cloud.baidu.com/doc/SPEECH/s/Gk7h80eb4
